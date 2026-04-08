@@ -2,8 +2,7 @@
 
 **ESTUDIANTE DE INGENIERIA CATASTRAL Y GEODESIA** 💻 
 
-<a href="https://igijon.netlify.app/" target="_blank"><img src="./images/banner.jpeg" 
-   borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
+ <img src="images/imagen_2026-04-08_153015039.png" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'/>
 </p>
 
  me interesa mucho la aplicación de la tecnología en la gestión del territorio.Actualmente, estoy enfocado en fortalecer mis bases en fundamentos de programación aplicada a la ingeniería.

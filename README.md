@@ -19,7 +19,7 @@ Intereses: Sistemas de Información Geográfica (SIG), Programación para ingeni
 
 
 
-## ⚡ Tecnologías más usadas
+## ⚡ Tecnologías usadas en mis trabajos
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### 🚀 Lenguajes

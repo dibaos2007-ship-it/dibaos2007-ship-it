@@ -21,6 +21,8 @@ Intereses: Sistemas de Información Geográfica (SIG), Programación para ingeni
 
 ## ⚡ Tecnologías usadas en mis trabajos
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Git Dash](https://img.shields.io/badge/Git%20Dash-00CED1?style=for-the-badge&logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Lenguajes
 

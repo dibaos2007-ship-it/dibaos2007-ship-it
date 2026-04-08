@@ -2,8 +2,9 @@
 
 **ESTUDIANTE DE INGENIERIA CATASTRAL Y GEODESIA** 💻 
 
- <img src="images/imagen_2026-04-08_153015039.png" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'/>
+<img src="3intbannergit.jpeg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'/>
 </p>
+
 
  me interesa mucho la aplicación de la tecnología en la gestión del territorio.Actualmente, estoy enfocado en fortalecer mis bases en fundamentos de programación aplicada a la ingeniería.
 Busco explorar herramientas de análisis geoespacial (SIG) y automatización de datos para contribuir a soluciones innovadoras en el ordenamiento territorial y el catastro multipropósito. Soy un entusiasta del aprendizaje continuo y de la documentación de procesos técnicos a través de proyectos académicos y personales.
